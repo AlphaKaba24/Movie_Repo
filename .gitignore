@@ -153,3 +153,8 @@ cython_debug/
 DATA/akas.csv.gz
 DATA/basics.csv.gz
 DATA/ratings.csv.gz
+DATA/DATA/akas.csv.gz
+DATA/DATA/basics.csv.gz
+DATA/DATA/ratings.csv.gz
+DATA/Movie_insights.ipynb
+Movie_insights.ipynb
