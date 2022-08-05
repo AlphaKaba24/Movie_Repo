@@ -156,3 +156,15 @@ DATA/ratings.csv.gz
 DATA/DATA/akas.csv.gz
 DATA/DATA/basics.csv.gz
 DATA/DATA/ratings.csv.gz
+DATA/DATA/final_tmdb_data_2000.csv.gz
+DATA/DATA/final_tmdb_data_2000.csv.gz
+DATA/DATA/final_tmdb_data_2000.csv.gz
+DATA/DATA/final_tmdb_data_2001.csv.gz
+DATA/DATA/title_akas.csv.gz
+DATA/DATA/title_basics.csv.gz
+DATA/DATA/title_ratings.csv.gz
+DATA/DATA/tmdb_api_results_2000.json
+DATA/DATA/tmdb_api_results_2001.json
+DATA/DATA/tmdb_results_combined.csv.gz
+DATA/final_tmdb_data_2000.csv.gz
+DATA/final_tmdb_data_2001.csv.gz
